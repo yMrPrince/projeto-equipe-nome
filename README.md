@@ -3,9 +3,9 @@
 Projeto de uma loja fictícia gamer desenvolvido em grupo para praticar Git e GitHub.
 
 ## Integrantes
-- Miguel
+- Miguel 
 - Paulo
-- Yasmin Patricio
+- Yasmin 
 - Thierry
 
 ## Descrição

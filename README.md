@@ -5,7 +5,7 @@ Projeto de uma loja fictícia gamer desenvolvido em grupo para praticar Git e Gi
 ## Integrantes
 - Miguel Borges
 - Paulo
-- Yasmin Patricio
+- Yasmin 
 - Thierry
 
 ## Descrição
